@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm KW (孔为) 👋
 
-<!--
-**kongwei-114514/kongwei-114514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student in Electronic Engineering at Tsinghua University, where I began my studies in 2024.
 
-Here are some ideas to get you started:
+## 🔍 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Hardware–software co-design and integration
+- Domain-specific language (DSL) design
+- FPGA development
+- Web front-end analysis and web scraping
+
+## 🛠️ What I Build
+
+I enjoy building things and bringing creative ideas to life through vibe coding.
+
+One project I'd like to share is **[Course Helper](https://github.com/kongwei-114514/course-helper)**, a browser extension for Tsinghua University's course registration platform. It makes it easier to browse courses, plan class schedules, and read course reviews.
+
+I'm also a member of **[free-bbs](https://www.free-bbs.cn/)**. 🌐
+
+## 💬 Let's Connect
+
+I'm always happy to exchange ideas and discuss new projects. If you have something in mind, I'd love to hear from you!
+
+📫 **Email:** [kongw24.tsinghua@gmail.com](mailto:kongw24.tsinghua@gmail.com)
