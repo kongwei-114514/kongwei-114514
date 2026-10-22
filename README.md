@@ -1,24 +1,24 @@
-# Hi, I'm KW (孔为) 👋
+# Hi, I'm KW (孔为)! 👋
 
-I'm an undergraduate student in Electronic Engineering at Tsinghua University, where I began my studies in 2024.
+I'm an Electronic Engineering undergrad at Tsinghua University. I've been here since 2024! 🎓
 
-## 🔍 Interests
+## 🔍 What I'm Into
 
 - Hardware–software co-design and integration
 - Domain-specific language (DSL) design
 - FPGA development
 - Web front-end analysis and web scraping
 
-## 🛠️ What I Build
+## 🛠️ I Like Making Things
 
-I enjoy building things and bringing creative ideas to life through vibe coding.
+I love turning "what if..." ideas into things I can actually use, with some vibe coding along the way. 💡
 
-One project I'd like to share is **[Course Helper](https://github.com/kongwei-114514/course-helper)**, a browser extension for Tsinghua University's course registration platform. It makes it easier to browse courses, plan class schedules, and read course reviews.
+One of those projects is **[Course Helper](https://github.com/kongwei-114514/course-helper)**, a browser extension for Tsinghua's course registration platform. It helps you browse courses, put together your timetable, and check course reviews. A little tool to make course planning easier! 📅
 
-I'm also a member of **[free-bbs](https://www.free-bbs.cn/)**. 🌐
+I'm also part of **[free-bbs](https://www.free-bbs.cn/)**! 🌐
 
-## 💬 Let's Connect
+## 💬 Say Hi!
 
-I'm always happy to exchange ideas and discuss new projects. If you have something in mind, I'd love to hear from you!
+I'm always up for a chat about new ideas, side projects, or something you've been wanting to build. Drop me a line—I'd love to hear about it!
 
 📫 **Email:** [kongw24.tsinghua@gmail.com](mailto:kongw24.tsinghua@gmail.com)
