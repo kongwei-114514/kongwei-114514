@@ -15,7 +15,7 @@ I love turning "what if..." ideas into things I can actually use, with some vibe
 
 One of those projects is **[Course Helper](https://github.com/kongwei-114514/course-helper)**, a browser extension for Tsinghua's course registration platform. It helps you browse courses, put together your timetable, and check course reviews. A little tool to make course planning easier! 📅
 
-I'm also part of **[free-bbs](https://www.free-bbs.cn/)**! 🌐
+I'm also part of **[free-bbs](https://www.free-bbs.cn/)**, a student-led learning community for Electronic Engineering students at Tsinghua. It's a place to ask questions, connect the dots between courses, and find people to explore new ideas with.
 
 ## 💬 Say Hi!
 
